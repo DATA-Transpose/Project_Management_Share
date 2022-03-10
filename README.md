@@ -80,6 +80,7 @@ $ nvidia-smi
 $ du -sh ## storage occupation for current dir 
 $ df -h ## disk
 ```
+<<<<<<< HEAD
 
 ## Git
 ```
@@ -91,3 +92,5 @@ $ git config user.name <name>
 $ git checkout -b <branch name>
 $ git checkout <branch name>
 ```
+=======
+>>>>>>> 118947996cd5aca852281cfbb2daac0d1cd3dade
